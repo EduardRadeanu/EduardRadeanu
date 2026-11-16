@@ -19,11 +19,15 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # personal token: the repo's own token only sees public contributions
+          github_token: ${{ secrets.CONTRIB_TOKEN }}
 
       - name: Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # personal token: the repo's own token only sees public contributions
+          github_token: ${{ secrets.CONTRIB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
