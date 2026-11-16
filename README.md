@@ -2,7 +2,9 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" alt="Website development illustration" width="100%">
 
-<img src="assets/typing.svg" alt="Hi, I'm Eduard Rădeanu 👋 Software Developer & Trader">
+<h3>Hi, I'm Eduard Rădeanu 👋</h3>
+
+<img src="assets/typing.svg" alt="Software Developer & Trader">
 
 </div>
 
