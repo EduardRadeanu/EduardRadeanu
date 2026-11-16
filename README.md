@@ -2,12 +2,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" alt="Website development illustration" width="100%">
 
-# Hi, I'm Eduard Rădeanu 👋
-
-<img src="assets/typing.svg" alt="Software Developer & Trader">
-
-I build tools that run my day: local AI assistants, agent pipelines and dashboards.
-Math & CS graduate; the same analytical rigor drives my trading research.
+<img src="assets/typing.svg" alt="Hi, I'm Eduard Rădeanu 👋 Software Developer & Trader">
 
 </div>
 
