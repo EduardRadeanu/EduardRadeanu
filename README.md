@@ -85,3 +85,15 @@ Local AI tools, agent pipelines and trading analytics.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardRadeanu/EduardRadeanu/output/pacman-contribution-graph-dark.svg">
   <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/EduardRadeanu/EduardRadeanu/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Pixel-art city at night, looping" width="100%">
+
+<h3>Build → measure → learn → repeat.</h3>
+
+<sub>Thanks for stopping by.</sub>
+
+</div>
